@@ -1,3 +1,3 @@
-Technology : html, flask, sqlite
+Technology used: html, flask, sqlite
 
 Memanipulasi data sqlite dengan flask method get dan post
